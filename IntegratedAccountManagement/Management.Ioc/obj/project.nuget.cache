@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uRtYjLXtcSYVcqrdhVwIjBjsRPRWgvp6OkUoHZjA9/xdgK99iEU8ldgC23IxFYgwGLu8nhSBYUXCKAN76xH8nA==",
+  "dgSpecHash": "5e4URR4MT90tLTlo5xxZ765t3tb2c3Jjqz7OI46Kct6kw0FxNNOt+3rubm1FMiZlI0xrZTTQnylV0uijWt0sKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Ioc\\Management.Ioc.csproj",
+  "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Ioc\\Management.Ioc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

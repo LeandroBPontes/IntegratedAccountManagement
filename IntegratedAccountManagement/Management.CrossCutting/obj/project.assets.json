@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.CrossCutting\\Management.CrossCutting.csproj",
+      "projectUniqueName": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.CrossCutting\\Management.CrossCutting.csproj",
       "projectName": "Management.CrossCutting",
-      "projectPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.CrossCutting\\Management.CrossCutting.csproj",
+      "projectPath": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.CrossCutting\\Management.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.CrossCutting\\obj\\",
+      "outputPath": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

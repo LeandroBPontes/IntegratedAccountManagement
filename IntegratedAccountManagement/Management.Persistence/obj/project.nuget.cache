@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nDaRBp4AMHLftX1SlwASHt6Mn/yiEn1zSlNNOXcWYH916I6rhI17XdqCGp1PGpn8XQooJJM+/IP8/lOGcmLH6w==",
+  "dgSpecHash": "E2mG8d2SPRZioBQyc5NaFP3RMH0R6xw70ABTD8wt9duAVG0CmDDzbIj1HvtdjAK7S/tHQkvTIB3o3R5rgt8Xdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Persistence\\Management.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Persistence\\Management.Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Integration\\Management.Integration.csproj": {}
+    "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Integration\\Management.Integration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Integration\\Management.Integration.csproj": {
+    "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Integration\\Management.Integration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Integration\\Management.Integration.csproj",
+        "projectUniqueName": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Integration\\Management.Integration.csproj",
         "projectName": "Management.Integration",
-        "projectPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Integration\\Management.Integration.csproj",
+        "projectPath": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Integration\\Management.Integration.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Integration\\obj\\",
+        "outputPath": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Integration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

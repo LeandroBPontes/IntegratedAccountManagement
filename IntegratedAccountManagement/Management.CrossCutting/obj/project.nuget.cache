@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xuj/XJ7o8gC28sCkG3fWVr9QBg/w00qNEIfZ1OcgQZ94yC5b2BJH1UFVuFu6H8wuNDoDRmSoFiIn8eus8KM3pw==",
+  "dgSpecHash": "NSarBsmhT0b3A3J816sOXRKHYidnjis/JobtIl8dZ2kMx1dP4iMZO6MYlHvM3SbxvnvqBY9GZLz+QIK0C2x82w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.CrossCutting\\Management.CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.CrossCutting\\Management.CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
