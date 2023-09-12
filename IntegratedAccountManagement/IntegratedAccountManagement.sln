@@ -4,25 +4,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00-Presentation", "00-Prese
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Domain", "01-Domain", "{4D90CA2D-616D-463E-AA10-A89A3334FAE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratedAccountManagement.Api", "IntegratedAccountManagement.Api\IntegratedAccountManagement.Api.csproj", "{150B2452-FB2A-487E-A293-7FE73064E260}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management.Api", "Management.Api\Management.Api.csproj", "{150B2452-FB2A-487E-A293-7FE73064E260}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratedAccountManagement.ApiConfiguration", "IntegratedAccountManagement.ApiConfiguration\IntegratedAccountManagement.ApiConfiguration.csproj", "{5F93D823-CF28-4EC1-8DCE-2028D7BF6A38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management.ApiConfiguration", "Management.ApiConfiguration\Management.ApiConfiguration.csproj", "{5F93D823-CF28-4EC1-8DCE-2028D7BF6A38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratedAccountManagement.Domain", "IntegratedAccountManagement.Domain\IntegratedAccountManagement.Domain.csproj", "{DE8BA368-A969-451A-B614-E797E63B948C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management.Domain", "Management.Domain\Management.Domain.csproj", "{DE8BA368-A969-451A-B614-E797E63B948C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratedAccountManagement.CrossCutting", "IntegratedAccountManagement.CrossCutting\IntegratedAccountManagement.CrossCutting.csproj", "{E33C47B2-65FE-413A-A82D-3970367271D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management.CrossCutting", "Management.CrossCutting\Management.CrossCutting.csproj", "{E33C47B2-65FE-413A-A82D-3970367271D7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Infrastructure", "02-Infrastructure", "{489A864E-705D-4B40-B6AE-78F5978D466B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratedAccountManagement.Infraestructure", "IntegratedAccountManagement.Infraestructure\IntegratedAccountManagement.Infraestructure.csproj", "{FDA173A0-1C2A-4A3C-A939-0EF7C26C00AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management.Infraestructure", "Management.Infraestructure\Management.Infraestructure.csproj", "{FDA173A0-1C2A-4A3C-A939-0EF7C26C00AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratedAccountManagement.Persistence", "IntegratedAccountManagement.Persistence\IntegratedAccountManagement.Persistence.csproj", "{C89E1D2E-586A-4B43-8C18-5D6DCB5586CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management.Persistence", "Management.Persistence\Management.Persistence.csproj", "{C89E1D2E-586A-4B43-8C18-5D6DCB5586CF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Integration", "03-Integration", "{76F93884-FABB-4680-8DAB-19A1021ABC6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratedAccountManagement.Integration", "IntegratedAccountManagement.Integration\IntegratedAccountManagement.Integration.csproj", "{A94D7393-52F1-45F3-9BFB-A2282ACA040E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management.Integration", "Management.Integration\Management.Integration.csproj", "{A94D7393-52F1-45F3-9BFB-A2282ACA040E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratedAccountManagement.IocConfiguration", "IntegratedAccountManagement.IocConfiguration\IntegratedAccountManagement.IocConfiguration.csproj", "{A248D5FD-AA53-4A61-AE8E-550EB0FE8933}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management.Ioc", "Management.Ioc\Management.Ioc.csproj", "{A248D5FD-AA53-4A61-AE8E-550EB0FE8933}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
