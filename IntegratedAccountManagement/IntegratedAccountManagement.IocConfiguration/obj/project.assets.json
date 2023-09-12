@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.IocConfiguration\\IntegratedAccountManagement.IocConfiguration.csproj",
+      "projectUniqueName": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.IocConfiguration\\IntegratedAccountManagement.IocConfiguration.csproj",
       "projectName": "IntegratedAccountManagement.IocConfiguration",
-      "projectPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.IocConfiguration\\IntegratedAccountManagement.IocConfiguration.csproj",
+      "projectPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.IocConfiguration\\IntegratedAccountManagement.IocConfiguration.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.IocConfiguration\\obj\\",
+      "outputPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.IocConfiguration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

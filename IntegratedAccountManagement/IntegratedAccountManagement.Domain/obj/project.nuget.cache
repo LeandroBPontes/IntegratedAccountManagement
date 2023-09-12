@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5tpHJXHYIBWAsNjhR9hoojHWlTZ6c7BNviyZBfLMk0T97TdZphuOQDpxfaZ/3Iv+ZLjj30em2YDZ9D5L5uxAAg==",
+  "dgSpecHash": "O5NfsC8ik7kFrA9da1UrdW9RKUkPG8VlpRvg8abqClbhS7vd/Sr5NScKOpsy7r2fTtiqQgIeneD8cMYq4qU3lQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Domain\\IntegratedAccountManagement.Domain.csproj",
+  "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Domain\\IntegratedAccountManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

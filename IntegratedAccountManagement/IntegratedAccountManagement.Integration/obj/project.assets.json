@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Integration\\IntegratedAccountManagement.Integration.csproj",
+      "projectUniqueName": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Integration\\IntegratedAccountManagement.Integration.csproj",
       "projectName": "IntegratedAccountManagement.Integration",
-      "projectPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Integration\\IntegratedAccountManagement.Integration.csproj",
+      "projectPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Integration\\IntegratedAccountManagement.Integration.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Integration\\obj\\",
+      "outputPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Integration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

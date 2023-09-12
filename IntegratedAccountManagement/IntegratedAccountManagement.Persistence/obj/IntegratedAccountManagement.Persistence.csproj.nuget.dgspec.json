@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Persistence\\IntegratedAccountManagement.Persistence.csproj": {}
+    "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Persistence\\IntegratedAccountManagement.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Persistence\\IntegratedAccountManagement.Persistence.csproj": {
+    "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Persistence\\IntegratedAccountManagement.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Persistence\\IntegratedAccountManagement.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Persistence\\IntegratedAccountManagement.Persistence.csproj",
         "projectName": "IntegratedAccountManagement.Persistence",
-        "projectPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Persistence\\IntegratedAccountManagement.Persistence.csproj",
+        "projectPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Persistence\\IntegratedAccountManagement.Persistence.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"

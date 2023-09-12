@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.ApiConfiguration\\IntegratedAccountManagement.ApiConfiguration.csproj",
+      "projectUniqueName": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.ApiConfiguration\\IntegratedAccountManagement.ApiConfiguration.csproj",
       "projectName": "IntegratedAccountManagement.ApiConfiguration",
-      "projectPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.ApiConfiguration\\IntegratedAccountManagement.ApiConfiguration.csproj",
+      "projectPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.ApiConfiguration\\IntegratedAccountManagement.ApiConfiguration.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.ApiConfiguration\\obj\\",
+      "outputPath": "C:\\Users\\leand\\Desktop\\IntegratedAccountManagementSolution\\IntegratedAccountManagement\\IntegratedAccountManagement\\IntegratedAccountManagement.ApiConfiguration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config"
