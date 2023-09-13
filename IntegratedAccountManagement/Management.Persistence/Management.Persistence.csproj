@@ -7,4 +7,9 @@
         <RootNamespace>IntegratedAccountManagement.Persistence</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Management.CrossCutting\Management.CrossCutting.csproj" />
+      <ProjectReference Include="..\Management.Domain\Management.Domain.csproj" />
+    </ItemGroup>
+
 </Project>

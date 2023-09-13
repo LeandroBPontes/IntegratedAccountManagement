@@ -7,4 +7,25 @@
         <RootNamespace>IntegratedAccountManagement.ApiConfiguration</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Management.CrossCutting\Management.CrossCutting.csproj" />
+      <ProjectReference Include="..\Management.Domain\Management.Domain.csproj" />
+      <ProjectReference Include="..\Management.Infraestructure\Management.Infraestructure.csproj" />
+      <ProjectReference Include="..\Management.Integration\Management.Integration.csproj" />
+      <ProjectReference Include="..\Management.Ioc\Management.Ioc.csproj" />
+      <ProjectReference Include="..\Management.Persistence\Management.Persistence.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.11" />
+      <PackageReference Include="Microsoft.AspNetCore.ResponseCompression" Version="2.2.0" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+      <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="7.0.0" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.5.0" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.5.0" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.5.0" />
+    </ItemGroup>
+
 </Project>

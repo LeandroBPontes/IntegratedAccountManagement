@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "9yFJUpPN/roQhh0AQuOkGxtraFOgpsPerxg1N1S75eMAGC0w6VeYTCR9XT/U/wgkUF/hoAy6fYKXTUyi2miHOw==",
+  "dgSpecHash": "Fi238NjyioMBJV1PzRloPx9XGpgvE+tRbSNJw0UONs05ju67Z973OyoVdyXWJTlh0d0gfRZVTSAx0zNsHt9A/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Infraestructure\\Management.Infraestructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.1\\microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.identitymodel.logging\\6.15.1\\microsoft.identitymodel.logging.6.15.1.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.1\\microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.1\\system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
