@@ -15,3 +15,5 @@ C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Persistence\obj\Debug\net7.0\refint\Management.Persistence.dll
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Persistence\obj\Debug\net7.0\Management.Persistence.pdb
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Persistence\obj\Debug\net7.0\ref\Management.Persistence.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Persistence\bin\Debug\net7.0\Management.Persistence.runtimeconfig.json
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Persistence\obj\Debug\net7.0\Management.Persistence.genruntimeconfig.cache

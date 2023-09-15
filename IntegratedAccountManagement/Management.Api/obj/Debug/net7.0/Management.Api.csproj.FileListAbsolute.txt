@@ -31,13 +31,11 @@ C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.ApiConfiguration.dll
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.CrossCutting.dll
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.Domain.dll
-C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.Infraestructure.dll
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.Integration.dll
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.Persistence.dll
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.ApiConfiguration.pdb
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.CrossCutting.pdb
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.Domain.pdb
-C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.Infraestructure.pdb
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.Integration.pdb
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.Persistence.pdb
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\obj\Debug\net7.0\Management.Api.csproj.AssemblyReference.cache
@@ -61,3 +59,5 @@ C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\obj\Debug\net7.0\Management.Api.pdb
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\obj\Debug\net7.0\Management.Api.genruntimeconfig.cache
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\obj\Debug\net7.0\ref\Management.Api.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.Infrastructure.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.Infrastructure.pdb

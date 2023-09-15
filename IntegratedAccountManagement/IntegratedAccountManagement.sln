@@ -14,7 +14,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management.CrossCutting", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Infrastructure", "02-Infrastructure", "{489A864E-705D-4B40-B6AE-78F5978D466B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management.Infraestructure", "Management.Infraestructure\Management.Infraestructure.csproj", "{FDA173A0-1C2A-4A3C-A939-0EF7C26C00AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management.Infrastructure", "Management.Infrastructure\Management.Infrastructure.csproj", "{FDA173A0-1C2A-4A3C-A939-0EF7C26C00AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management.Persistence", "Management.Persistence\Management.Persistence.csproj", "{C89E1D2E-586A-4B43-8C18-5D6DCB5586CF}"
 EndProject

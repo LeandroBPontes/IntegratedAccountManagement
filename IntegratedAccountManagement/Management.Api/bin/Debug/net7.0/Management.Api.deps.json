@@ -362,7 +362,7 @@
         "dependencies": {
           "Management.CrossCutting": "1.0.0",
           "Management.Domain": "1.0.0",
-          "Management.Infraestructure": "1.0.0",
+          "Management.Infrastructure": "1.0.0",
           "Management.Integration": "1.0.0",
           "Management.Persistence": "1.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
@@ -394,13 +394,13 @@
           "Management.Domain.dll": {}
         }
       },
-      "Management.Infraestructure/1.0.0": {
+      "Management.Infrastructure/1.0.0": {
         "dependencies": {
           "Management.CrossCutting": "1.0.0",
           "Management.Domain": "1.0.0"
         },
         "runtime": {
-          "Management.Infraestructure.dll": {}
+          "Management.Infrastructure.dll": {}
         }
       },
       "Management.Integration/1.0.0": {
@@ -758,7 +758,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Management.Infraestructure/1.0.0": {
+    "Management.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
