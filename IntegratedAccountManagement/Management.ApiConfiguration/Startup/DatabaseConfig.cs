@@ -1,4 +1,6 @@
+using IntegratedAccountManagement.Persistence.DatabaseConfigs;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -14,11 +16,11 @@ namespace IntegratedAccountManagement.ApiConfiguration.Startup;
             return services;
         }
 
-        public static IApplicationBuilder AppUseMigrations(this IApplicationBuilder app, IHostEnvironment env)
+        public static IApplicationBuilder AppUseMigrations(this IApplicationBuilder app)
         {
             using var serviceScope = app.ApplicationServices.CreateScope();
             
-           // var context = serviceScope.ServiceProvider.GetService<DataContext>();
+            var context = serviceScope.ServiceProvider.GetService<DataContext>();
         
             if (context == null)
             {
@@ -30,7 +32,7 @@ namespace IntegratedAccountManagement.ApiConfiguration.Startup;
                 context.DbContext.Database.Migrate();
             }
         
-            SeedDev.CreateUsers(context);
+            SeedUser.CreateUsers(context);
         
             return app;
         }

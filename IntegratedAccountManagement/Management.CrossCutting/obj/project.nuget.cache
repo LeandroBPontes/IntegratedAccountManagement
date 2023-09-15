@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5tmTvruaMYwhA5bjMxZa/cabRY224ErmMFH7whooSmc5iZZsN8oVmdKwIonzfrxU4ohvPhXA75rO/i7ymhv+nw==",
+  "dgSpecHash": "7jpYDJFI9Odz4wrjVQuJWj9YNfpdoWlilOzqYFgO+37TSfC+ibYt4OoZrmhOtmtKFzqidzlkwh9pELIb6lUzVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.CrossCutting\\Management.CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\Management.CrossCutting\\Management.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.1\\microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",

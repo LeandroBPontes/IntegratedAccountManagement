@@ -1,28 +1,29 @@
+﻿using IntegratedAccountManagement.Persistence.DatabaseConfigs;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace IntegratedAccountManagement.IocConfiguration;
+namespace IntegratedAccountManagement.ApiConfiguration.IocConfig;
 
-public static class IocServiceConfiguration
+public static class IoCServicesConfig
 {
-    public static IServiceCollection AppAddIoCServices(this IServiceCollection services, IConfiguration config)
+    public static IServiceCollection AppAddIoCServices(this IServiceCollection services,
+        IConfiguration config)
     {
-        //infra
+        // options/config
+        ConfigureOptions(services, config);
+
+        // infra
         services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-        
 
-      //  services.AddScoped<ISessionProvider, SessionProvider>();
-        
+        services.AddScoped<DataContext, DataContext>();
 
-        //events
-       // services.AddScoped<IDomainNotification, DomainNotification>();
+        //services.AddSingleton<PasswordHasherService>();
 
         // unit of work
         //services.AddScoped<IUnitOfWork, UnitOfWork>();
 
-     
-
+        // repositories
         // typeof(UserRepository).Assembly.GetTypes()
         //     .Where(x => x.FullName != null && x.FullName.Contains("Repositories") && x.GetInterfaces().Any() && x.IsClass && x != typeof(RepositoryBase<,>))
         //     .ToList().ForEach(x =>
@@ -33,9 +34,15 @@ public static class IocServiceConfiguration
         //
         //         services.AddScoped(@interface, x);
         //     });
-        //
-        // InjectSolutionsPortalService(services, config);
 
         return services;
+    }
+
+    private static void ConfigureOptions(IServiceCollection services,
+        IConfiguration config)
+    {
+        // var appConfig = new AppConfig();
+        // config.GetSection(nameof(AppConfig)).Bind(appConfig);
+        // services.AddSingleton(appConfig);
     }
 }

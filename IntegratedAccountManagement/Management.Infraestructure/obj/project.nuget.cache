@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fi238NjyioMBJV1PzRloPx9XGpgvE+tRbSNJw0UONs05ju67Z973OyoVdyXWJTlh0d0gfRZVTSAx0zNsHt9A/Q==",
+  "dgSpecHash": "62z1Wrc4IXJNhRh/UerKWRPf1vhtvSnrguP4SC0pakUHSy0sV42+bvBlZK2CO/XekMHRe39I+8UMEoeEIOe5Pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Infraestructure\\Management.Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\Management.Infraestructure\\Management.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.1\\microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",

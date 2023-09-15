@@ -22,8 +22,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Integration", "03-Integr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management.Integration", "Management.Integration\Management.Integration.csproj", "{A94D7393-52F1-45F3-9BFB-A2282ACA040E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Management.Ioc", "Management.Ioc\Management.Ioc.csproj", "{A248D5FD-AA53-4A61-AE8E-550EB0FE8933}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,7 +35,6 @@ Global
 		{FDA173A0-1C2A-4A3C-A939-0EF7C26C00AE} = {489A864E-705D-4B40-B6AE-78F5978D466B}
 		{C89E1D2E-586A-4B43-8C18-5D6DCB5586CF} = {489A864E-705D-4B40-B6AE-78F5978D466B}
 		{A94D7393-52F1-45F3-9BFB-A2282ACA040E} = {76F93884-FABB-4680-8DAB-19A1021ABC6E}
-		{A248D5FD-AA53-4A61-AE8E-550EB0FE8933} = {CE7DCEA7-E397-40A1-A998-F635DB0856C9}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{150B2452-FB2A-487E-A293-7FE73064E260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -68,9 +65,5 @@ Global
 		{A94D7393-52F1-45F3-9BFB-A2282ACA040E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A94D7393-52F1-45F3-9BFB-A2282ACA040E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A94D7393-52F1-45F3-9BFB-A2282ACA040E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A248D5FD-AA53-4A61-AE8E-550EB0FE8933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A248D5FD-AA53-4A61-AE8E-550EB0FE8933}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A248D5FD-AA53-4A61-AE8E-550EB0FE8933}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A248D5FD-AA53-4A61-AE8E-550EB0FE8933}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,10 +1,12 @@
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Http;
 
 namespace IntegratedAccountManagement.ApiConfiguration.Startup;
 public static class ResponseHeadersConfig
     {
         public static IApplicationBuilder UseResponseHeadres(this IApplicationBuilder app,
-            Dictionary<string, string> toAdd = null,
-            Dictionary<string, string> toRemove = null)
+            Dictionary<string, string>? toAdd = null,
+            Dictionary<string, string>? toRemove = null)
         {
             app.Use(async (context, next) =>
             {

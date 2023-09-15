@@ -1,4 +1,6 @@
+using IntegratedAccountManagement.ApiConfiguration.IocConfig;
 using IntegratedAccountManagement.ApiConfiguration.Startup;
+
 
 namespace Management.Api;
  public class Startup
@@ -34,7 +36,7 @@ namespace Management.Api;
                 .AppAddCompression()
                 .AppAddMediator()
                 .AppAddSwagger()
-                //.AppAddIoCServices(Configuration)
+                .AppAddIoCServices(Configuration)
                 .AddRazorPages(cfg => {
                     cfg.RootDirectory = "/";
                 });
@@ -50,20 +52,15 @@ namespace Management.Api;
 
             app.UseResponseCompression();
             app.UseStaticFiles();
-            app.AppUseMigrations(Configuration, env);
+            app.AppUseMigrations();
             app.UseCors(CorsPolicy);
-            app.AppConfigureLocalization();
-            app.AppUseApiDocs();
             app.UseRouting();
             app.UseAuthentication();
             app.UseAuthorization();
-            app.UseCronJobs(Configuration, serviceProvider, env);
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
               
             });
-            //app.AppUseSpa(env);
-            Logging4NetFactory.GetLogger().LogInfo("Api starts");
         }
     }

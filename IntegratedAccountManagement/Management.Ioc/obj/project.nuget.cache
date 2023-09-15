@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+LLvcjq7M5XeQbPN6pSMKuGzPhw7aXb8N+uYalMtjEL7VT4t3IlpIWMsYw1LqetlqyvKm4Zbz3WcKW2D9l7c8w==",
+  "dgSpecHash": "QjVDGxctDVgV+HjEgVklxM/W6nSPMw4YDy5i+f9YlL9xhS88KQeT9qpcHSFkORPp8PgVfVSTtXo+7pOMV5aIpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\IntegratedAccountManagement\\Management.Ioc\\Management.Ioc.csproj",
+  "projectFilePath": "C:\\Users\\leand\\Desktop\\IntegratedAccount\\IntegratedAccountManagement\\Management.Ioc\\Management.Ioc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.0\\microsoft.aspnetcore.http.2.2.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
