@@ -1,0 +1,12 @@
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Integration\bin\Debug\net7.0\Management.Integration.deps.json
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Integration\bin\Debug\net7.0\Management.Integration.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Integration\bin\Debug\net7.0\Management.Integration.pdb
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Integration\obj\Debug\net7.0\Management.Integration.csproj.AssemblyReference.cache
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Integration\obj\Debug\net7.0\Management.Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Integration\obj\Debug\net7.0\Management.Integration.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Integration\obj\Debug\net7.0\Management.Integration.AssemblyInfo.cs
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Integration\obj\Debug\net7.0\Management.Integration.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Integration\obj\Debug\net7.0\Management.Integration.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Integration\obj\Debug\net7.0\refint\Management.Integration.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Integration\obj\Debug\net7.0\Management.Integration.pdb
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Integration\obj\Debug\net7.0\ref\Management.Integration.dll

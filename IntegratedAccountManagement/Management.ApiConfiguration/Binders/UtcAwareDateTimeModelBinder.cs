@@ -10,7 +10,7 @@ public class DateTimeModelBinderProvider : IModelBinderProvider
         DateTimeStyles.AdjustToUniversal | DateTimeStyles.AllowWhiteSpaces;
 
     /// <inheritdoc />
-    public IModelBinder GetBinder(ModelBinderProviderContext context)
+    public IModelBinder? GetBinder(ModelBinderProviderContext context)
     {
         if (context == null)
         {
@@ -60,7 +60,7 @@ public class UtcAwareDateTimeModelBinder : IModelBinder
         var value = valueProviderResult.FirstValue;
         var culture = valueProviderResult.Culture;
 
-        object model;
+        object? model;
         if (string.IsNullOrWhiteSpace(value))
         {
             model = null;

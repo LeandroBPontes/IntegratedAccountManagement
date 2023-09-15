@@ -1,0 +1,12 @@
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Domain\bin\Debug\net7.0\Management.Domain.deps.json
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Domain\bin\Debug\net7.0\Management.Domain.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Domain\bin\Debug\net7.0\Management.Domain.pdb
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Domain\obj\Debug\net7.0\Management.Domain.csproj.AssemblyReference.cache
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Domain\obj\Debug\net7.0\Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Domain\obj\Debug\net7.0\Management.Domain.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Domain\obj\Debug\net7.0\Management.Domain.AssemblyInfo.cs
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Domain\obj\Debug\net7.0\Management.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Domain\obj\Debug\net7.0\Management.Domain.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Domain\obj\Debug\net7.0\refint\Management.Domain.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Domain\obj\Debug\net7.0\Management.Domain.pdb
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Domain\obj\Debug\net7.0\ref\Management.Domain.dll

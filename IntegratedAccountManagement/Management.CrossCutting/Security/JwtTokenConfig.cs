@@ -7,16 +7,25 @@ namespace IntegratedAccountManagement.CrossCutting.Security;
 
  public class JwtTokenConfig
     {
-        public string Issuer { get; set; }
+        public JwtTokenConfig(){}
+        public JwtTokenConfig(string? issuer, string? audience, string? secretKey, int expiresIn)
+        {
+            Issuer = issuer;
+            Audience = audience;
+            SecretKey = secretKey;
+            ExpiresIn = expiresIn;
+        }
 
-        public string Audience { get; set; }
+        public string? Issuer { get; set; }
 
-        public string SecretKey { get; set; }
+        public string? Audience { get; set; }
+
+        public string? SecretKey { get; set; }
 
         public int ExpiresIn { get; set; }
 
         public SymmetricSecurityKey SigningKey =>
-            new SymmetricSecurityKey(Encoding.ASCII.GetBytes(SecretKey));
+            new SymmetricSecurityKey(Encoding.ASCII.GetBytes(SecretKey!));
 
         public SigningCredentials SigningCredentials =>
             new SigningCredentials(SigningKey, SecurityAlgorithms.HmacSha256);
@@ -57,7 +66,7 @@ namespace IntegratedAccountManagement.CrossCutting.Security;
             return encodedJwt;
         }
 
-        public ClaimsPrincipal ValidateToken(string token)
+        public ClaimsPrincipal? ValidateToken(string token)
         {
             var jwt = new JwtSecurityToken(token);
             if (jwt.ValidTo < DateTime.UtcNow)

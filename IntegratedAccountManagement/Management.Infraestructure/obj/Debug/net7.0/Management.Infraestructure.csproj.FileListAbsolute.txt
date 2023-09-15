@@ -1,0 +1,17 @@
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\bin\Debug\net7.0\Management.Infraestructure.deps.json
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\bin\Debug\net7.0\Management.Infraestructure.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\bin\Debug\net7.0\Management.Infraestructure.pdb
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\bin\Debug\net7.0\Management.CrossCutting.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\bin\Debug\net7.0\Management.Domain.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\bin\Debug\net7.0\Management.CrossCutting.pdb
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\bin\Debug\net7.0\Management.Domain.pdb
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\obj\Debug\net7.0\Management.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\obj\Debug\net7.0\Management.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\obj\Debug\net7.0\Management.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\obj\Debug\net7.0\Management.Infraestructure.AssemblyInfo.cs
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\obj\Debug\net7.0\Management.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\obj\Debug\net7.0\Management.Infraestructure.csproj.CopyComplete
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\obj\Debug\net7.0\Management.Infraestructure.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\obj\Debug\net7.0\refint\Management.Infraestructure.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\obj\Debug\net7.0\Management.Infraestructure.pdb
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Infraestructure\obj\Debug\net7.0\ref\Management.Infraestructure.dll

@@ -26,7 +26,7 @@ namespace Management.Api;
                             builder.AllowAnyOrigin()
                                 .AllowAnyMethod()
                                 .AllowAnyHeader()
-                                .WithOrigins(Configuration.GetSection("AppConfig:AppUrl").Value)
+                                .WithOrigins(Configuration.GetSection("AppConfig:AppUrl").Value ?? string.Empty)
                                 .AllowCredentials()
                             );
                 })

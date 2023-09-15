@@ -1,0 +1,12 @@
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.CrossCutting\bin\Debug\net7.0\Management.CrossCutting.deps.json
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.CrossCutting\bin\Debug\net7.0\Management.CrossCutting.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.CrossCutting\bin\Debug\net7.0\Management.CrossCutting.pdb
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.CrossCutting\obj\Debug\net7.0\Management.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.CrossCutting\obj\Debug\net7.0\Management.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.CrossCutting\obj\Debug\net7.0\Management.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.CrossCutting\obj\Debug\net7.0\Management.CrossCutting.AssemblyInfo.cs
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.CrossCutting\obj\Debug\net7.0\Management.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.CrossCutting\obj\Debug\net7.0\Management.CrossCutting.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.CrossCutting\obj\Debug\net7.0\refint\Management.CrossCutting.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.CrossCutting\obj\Debug\net7.0\Management.CrossCutting.pdb
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.CrossCutting\obj\Debug\net7.0\ref\Management.CrossCutting.dll
