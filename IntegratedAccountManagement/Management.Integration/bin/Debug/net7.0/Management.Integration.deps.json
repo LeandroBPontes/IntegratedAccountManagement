@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Management.Integration/1.0.0": {
+        "runtime": {
+          "Management.Integration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Management.Integration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
