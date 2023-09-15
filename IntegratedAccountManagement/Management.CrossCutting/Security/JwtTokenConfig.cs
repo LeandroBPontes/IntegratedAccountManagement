@@ -24,11 +24,11 @@ namespace IntegratedAccountManagement.CrossCutting.Security;
 
         public int ExpiresIn { get; set; }
 
-        public SymmetricSecurityKey SigningKey =>
-            new SymmetricSecurityKey(Encoding.ASCII.GetBytes(SecretKey!));
+        // public SymmetricSecurityKey SigningKey =>
+        //     new SymmetricSecurityKey(Encoding.ASCII.GetBytes(SecretKey!));
 
-        public SigningCredentials SigningCredentials =>
-            new SigningCredentials(SigningKey, SecurityAlgorithms.HmacSha256);
+        // public SigningCredentials SigningCredentials =>
+        //     new SigningCredentials(SigningKey, SecurityAlgorithms.HmacSha256);
 
         public TokenValidationParameters TokenValidationParameters => new TokenValidationParameters
         {
@@ -39,7 +39,7 @@ namespace IntegratedAccountManagement.CrossCutting.Security;
             ValidAudience = Audience,
 
             ValidateIssuerSigningKey = true,
-            IssuerSigningKey = SigningKey,
+          //  IssuerSigningKey = SigningKey,
 
             RequireExpirationTime = true,
             ValidateLifetime = true,
@@ -58,8 +58,8 @@ namespace IntegratedAccountManagement.CrossCutting.Security;
                 audience: Audience,
                 claims: claims,
                 notBefore: DateTime.UtcNow,
-                expires: DateTime.UtcNow.AddSeconds(expiresInSeconds),
-                signingCredentials: SigningCredentials);
+                expires: DateTime.UtcNow.AddSeconds(expiresInSeconds)
+               );
 
             var encodedJwt = new JwtSecurityTokenHandler().WriteToken(jwt);
 

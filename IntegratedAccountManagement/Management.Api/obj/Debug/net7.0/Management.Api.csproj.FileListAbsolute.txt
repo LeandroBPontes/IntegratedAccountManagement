@@ -61,3 +61,6 @@ C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\obj\Debug\net7.0\ref\Management.Api.dll
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.Infrastructure.dll
 C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Management.Infrastructure.pdb
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leand\Desktop\IntegratedAccount\IntegratedAccountManagement\Management.Api\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll

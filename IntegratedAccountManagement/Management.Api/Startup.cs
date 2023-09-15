@@ -55,6 +55,7 @@ namespace Management.Api;
             app.AppUseMigrations();
             app.UseCors(CorsPolicy);
             app.UseRouting();
+            app.AppUseSwagger();
             app.UseAuthentication();
             app.UseAuthorization();
             app.UseEndpoints(endpoints =>
