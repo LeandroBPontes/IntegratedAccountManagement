@@ -14,8 +14,6 @@ public class Account : IAggregateRoot<Guid>
     public decimal Amount { get; private set; }
     
     public DateTime CreatedAt { get; private set; }
-
-    public string Teste { get; private set; }
     
     public bool Equals(IEntity<Guid>? other)
     {
